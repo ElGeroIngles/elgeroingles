@@ -19,6 +19,9 @@ There are more projects that I haven't talked about so if you are interested che
 # 🔭 Wanting to Learn
 [![My Skills](https://skillicons.dev/icons?i=rust,html,css,cpp,unity,java,js)](https://skillicons.dev)
 
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=catter1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+
 # 🔗 Links
 [![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@elgeroingles)
 [![discord](https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4pYjW9btNc)
