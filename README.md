@@ -21,8 +21,7 @@ There are more projects that I haven't talked about so if you are interested che
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elgeroingles&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=elgeroingles&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=elgeroingles&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=elgeroingles&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🔗 Links
 [![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@elgeroingles)
