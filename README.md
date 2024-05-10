@@ -1,7 +1,7 @@
 # 👋 Hello, I'm ElGeroIngles!
 Hello! I'm a Spanish teenager who really likes to code minecraft datapacks, python scripts and more!
 
-# 🚀 Projects:
+# 🚀 Projects
 Throughout some years of experience I've developed some things:
 | Projects | Description |
 | --- | --- |
