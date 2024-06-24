@@ -29,3 +29,4 @@ There are more projects that I haven't talked about so if you are interested che
 [![modrinth](https://img.shields.io/badge/modrinth-5AD770?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/ElGeroIngles)
 [![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElGeroIngles)
 [![Patreon](https://img.shields.io/badge/Patreon-f96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/EclipseStudios447)
+[![CurseForge](https://img.shields.io/badge/Curseforge-0D0D0D?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/members/elgeroingles/projects)
