@@ -14,11 +14,11 @@ Throughout some years of experience I've developed some things:
 There are more projects that I haven't talked about so if you are interested check them out in my [Modrinth](https://modrinth.com/user/ElGeroIngles) and my [GitHub](https://github.com/ElGeroIngles?tab=repositories)!
 
 # 💻 I've Worked With
-[![My Skills](https://skillicons.dev/icons?i=py,discordjs,bots,pycharm,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,discordjs,vscode)](https://skillicons.dev)
 <img src="https://raw.githubusercontent.com/SpyglassMC/vscode-datapack/legacy-v3/icon.png" width="50" height="50">
 
 # 🔭 Wanting to Learn
-[![My Skills](https://skillicons.dev/icons?i=rust,html,css,cpp,unity,java,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,go,c,cpp,ts,html,css,godot)](https://skillicons.dev)
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elgeroingles&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
