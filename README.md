@@ -21,8 +21,13 @@ There are more projects that I haven't talked about so if you are interested che
 [![My Skills](https://skillicons.dev/icons?i=rust,go,c,cpp,ts,html,css,godot)](https://skillicons.dev)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=elgeroingles&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+
+<div align="center"><center>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=elgeroingles&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=elgeroingles&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</center></div>
 
 # 🔗 Links
 
